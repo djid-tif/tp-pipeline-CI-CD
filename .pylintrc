@@ -1,2 +1,4 @@
-disable =
-    missing-class-docstring,
+[MESSAGES CONTROL]
+disable=C0111
+ignore=tests
+disable = missing-class-docstring,
